@@ -1,0 +1,24 @@
+Metadata-Version: 2.0
+Name: Google-Search-API
+Version: 1.1.13
+Summary: Search in google
+Home-page: https://github.com/abenassi/Google-Search-API
+Author: Agustin Benassi
+Author-email: agusbenassi@gmail.com
+License: MIT
+Keywords: google search images api
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Requires-Dist: beautifulsoup4
+Requires-Dist: requests
+Requires-Dist: selenium (<3.0.0,>=2.44.0)
+Requires-Dist: unidecode
+Requires-Dist: vcrpy
+
+UNKNOWN
+
+
