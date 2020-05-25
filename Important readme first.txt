@@ -16,7 +16,7 @@ STEPS:
 3. Create a newfolder named AIVA and copy all the files in it except "Softwares Required for Running AIVA" and "resources".
 4. Download Pycharm from https://www.jetbrains.com/pycharm/
 5. Install Pycharm correctly and run it.
-6. Open AIVA folder(newfoilder which is created in step 3) in Pycharm.
+6. Open AIVA folder(newfolder which is created in step 3) in Pycharm.
 7. ENJOY 😁
 
 Note:
