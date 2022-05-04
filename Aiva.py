@@ -5,7 +5,7 @@ import os
 from playsound import playsound
 import webbrowser
 import random
-import ctypes
+import ctyp
 
 from fb import facebook
 
